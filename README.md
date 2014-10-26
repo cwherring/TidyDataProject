@@ -41,7 +41,7 @@ To run the analysis, perform the following steps:
 
 * Last, execute **`Run.Analysis()`** with R.  This will generate the TidyData.txt file in the data.directory.
 
-*Note: If you have already download and extracted the data files to the the data.directory folder you set then set the following dyanmic variable **`download.datasource.on`** to FALSE in the varialbes.R file and you will not have to wait for the data download and extraction. If you have not downloaded the data files to the data.directory, then make sure to set **`download.datasource.on`** to TRUE to download and extract the data files to the data.directory.
+\*Note: If you have already download and extracted the data files to the the data.directory folder you set then set the following dyanmic variable **`download.datasource.on`** to FALSE in the varialbes.R file and you will not have to wait for the data download and extraction. If you have not downloaded the data files to the data.directory, then make sure to set **`download.datasource.on`** to TRUE to download and extract the data files to the data.directory.
 
-**Note if you are using Windows this will work, I have not tested it with Linux or Mac yet. 
+**Note if you are using Windows this works, it has not been tested with Linux or Mac yet. 
 
